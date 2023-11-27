@@ -1,0 +1,75 @@
+*{
+    padding : 0px;
+    margin : 0px ;
+    box-sizing: border-box;
+}
+body{
+    justify-content: center ;
+    align-items: center ;
+    display: flex;
+    height: 100vh;
+    background-color: #008B8B;
+}
+#container{
+    height: 50vh;
+    width: 50vw;
+    background-color: aqua;
+    text-align: center;
+    border: 3px solid red;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+.label{
+    font-size: 25px;
+    padding : 10px;
+    font-weight: bold;
+    width: 100px;
+    display: inline-block;
+
+
+}
+.inputClass{
+    font-size: 20px;
+    padding : 4px;
+    margin-top: 50px;
+    margin : 4px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.childDiv{
+    margin-top: 30px;
+}
+.img{
+    margin-left: 0px;
+    margin-top: 13px;
+    height: 50px;
+    width: 50px;
+}
+.leftDiv{
+    margin-top: 90px;
+    margin-right: 60px;
+    float: right;
+    height: 30vh;
+    width: 10vw;
+}
+.usaimg{
+    margin-left: 0px;
+    height: 30px;
+    width: 30px;
+}
+.canimg{
+    margin-top: 14px;
+    margin-left: 0px;
+    height: 35px;
+    width: 30px;
+}
+.japimg{
+    margin-top: 18px;
+    margin-left: 0px;
+    height: 30px;
+    width: 30px;
+}
